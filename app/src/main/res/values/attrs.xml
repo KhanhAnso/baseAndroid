@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicatorViewMadeBySonTit">
+        <attr name="hado_radius_selected" format="dimension" />
+        <attr name="hado_radius_unselected" format="dimension" />
+
+        <attr name="hado_color_selected" format="color" />
+        <attr name="hado_color_unselected" format="color" />
+
+        <attr name="hado_distance" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="CustomChartBMIResult">
+        <attr name="colorTriangle" format="color"></attr>
+        <attr name="sizeTextScore" format="dimension"></attr>
+    </declare-styleable>
+    <declare-styleable name="CustomChartHistoryBMI">
+        <attr name="TextsizeScore" format="dimension"></attr>
+    </declare-styleable>
+    <declare-styleable name="CustomBmiResultST">
+        <attr name="sizeScore" format="dimension"></attr>
+        <attr name="sizeRangeScore" format="dimension"></attr>
+    </declare-styleable>
+</resources>
